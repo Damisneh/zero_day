@@ -1,0 +1,11 @@
+COMMANDS      MEANING
+1. mkdir-to create a directory
+2. touch-to create a file
+3. cd-to change directory
+4. rm-to remove
+5. mv-to move or rename
+6. cp-to copy
+7.ls-to list 
+8.cat-to display the content in a files
+9.grep-to search
+
