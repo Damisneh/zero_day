@@ -1,0 +1,21 @@
+1. git clone:Git clone is a command for downloading existing source code from a remote repository
+
+2. git branch:We can use the git branch command for creating, listing and deleting branches
+
+3. git checkout:git checkout mostly for switching from one branch
+to another.
+
+4. git status: Git status command gives us all the necessary information about the current branch.
+
+
+5. git add:git add command to include the changes of a file(s) into our next commit.
+
+6. git commit: to write a short message to explain what we have developed or changed in the source code.
+
+7. git push:. Git push uploads your commits to the remote repository.
+
+8. git pull: git pull command is used to get updates from the remote repo.
+
+9. git revert:There are various ways to undo our changes locally or remotely
+
+10.git merge.Git merge basically integrates your feature branch with all of its commits back to the dev (or master) branch.
